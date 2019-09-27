@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Commande</string>
+    <string name="country_prompt">Choose a country</string>
+    <string-array name="country_arrays">
+        <item>10 Kg</item>
+        <item>20 Kg</item>
+        <item>30 Kg</item>
+        <item>40 Kg</item>
+        <item>50 Kg</item>
+        <item>60 Kg</item>
+        <item>70 Kg</item>
+        <item>80 Kg</item>
+        <item>90 Kg</item>
+        <item>100 Kg</item>
+    </string-array>
+</resources>
